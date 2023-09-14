@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/noelmaby2" target="blank"><img src="https://img.shields.io/twitter/follow/noelmaby2?logo=twitter&style=for-the-badge" alt="noelmaby2" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python , ML**
+- 💬 Ask me about **Python , Frond-End Development**
 
 - 📫 How to reach me **noelmanjayilaby@gmail.com**
 
