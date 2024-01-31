@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NOEL M ABY</h1>
-<h3 align="center">I am a second year student pursuing Computer science Engineering @ Jyothi Engineering College</h3>
+<h3 align="center">I am a third year student pursuing Computer science Engineering @ Jyothi Engineering College</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noelmaby&label=Profile%20views&color=0e75b6&style=flat" alt="noelmaby" /> </p>
